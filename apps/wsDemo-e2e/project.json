@@ -1,0 +1,9 @@
+{
+  "name": "wsDemo-e2e",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "projectType": "application",
+  "sourceRoot": "apps/wsDemo-e2e/src",
+  "implicitDependencies": ["wsDemo"],
+  "// targets": "to see all targets run: nx show project wsDemo-e2e --web",
+  "targets": {}
+}
